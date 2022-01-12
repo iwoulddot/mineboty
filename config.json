@@ -3,7 +3,7 @@
  "port": "Your_server_port_here",
  "name": "Your_bot_name_here",
  "auto-night-skip": "false",
- "token": "OTI3MjY3ODY0OTU4ODkwMDU0.YdHvfg.Ko1lT1Gl4-Jg1Z9XZ0VUYhKsBiw",
+ "token": "",
  "loginmsg": "Your_Login_message_here",
  "prefix": "!",
  "version": "1.17.1"
